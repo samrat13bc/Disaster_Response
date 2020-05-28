@@ -50,10 +50,13 @@ SQLlite Database Libraqries: SQLalchemy
 Web App and Data Visualization: Flask, Plotly
 
 Installing
+
 Clone this GIT repository:
 
 git clone https://github.com/samrat13bc/Disaster_Response
+
 Executing Program:
+
 Run the following commands in the project's root directory to set up your database and model.
 
 To run ETL pipeline that cleans data and stores in database python data/process_data.py data/messages.csv data/categories.csv data/DisasterResponse.db
@@ -66,6 +69,7 @@ Go to http://0.0.0.0:3001/
 
 
 Additional Material
+
 In the data and models folder you can find two jupyter notebook that will help you understand how the model works step by step:
 
 ETL Preparation Notebook: learn everything about the implemented ETL pipeline
@@ -78,14 +82,17 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 
 
 Authors
+
 Samrat Nilesh
 
 
 Acknowledgements
+
 Udacity for providing such a complete Data Science Nanodegree Program
 Figure Eight for providing messages dataset to train my model
 
 Screenshots:
+
 This is an example of a message you can type to test Machine Learning model performance
 Sample Input
 ![sample_input](https://user-images.githubusercontent.com/65721102/83110577-e7c83e80-a0e0-11ea-832c-c50177bba3cf.png)
