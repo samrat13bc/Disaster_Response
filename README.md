@@ -1,31 +1,32 @@
 # Disaster_Response
-Disaster Response Pipeline Project
+**Disaster Response Pipeline Project**
 
 Intro Pic
 ![intro](https://user-images.githubusercontent.com/65721102/83110162-45a85680-a0e0-11ea-8fd2-23799c39ef94.png)
 
 
-Table of Contents
+**Table of Contents**
 
-Description
+**Description**
 
-Getting Started
+**Getting Started**
 
-Dependencies
+**Dependencies**
 
-Installing
+**Installing**
 
-Executing Program
+**Executing Program**
 
-Additional Material
+**Additional Material**
 
-Authors
+**Authors**
 
-Acknowledgement
+**Acknowledgement**
 
-Screenshots
+**Screenshots**
 
-Description
+## Description
+
 This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. The initial dataset contains pre-labelled tweet and messages from real-life disaster. The aim of the project is to build a Natural Language Processing tool that categorize messages.
 
 The Project is divided in the following Sections:
@@ -36,9 +37,9 @@ Machine Learning Pipeline to train a model able to classify text message in cate
 
 Web App to show model results in real time.
 
-Getting Started
+## Getting Started
 
-Dependencies:
+## Dependencies:
 Python 3.5+ (I used Python 3.7)
 
 Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
@@ -49,13 +50,13 @@ SQLlite Database Libraqries: SQLalchemy
 
 Web App and Data Visualization: Flask, Plotly
 
-Installing
+## Installing
 
 Clone this GIT repository:
 
 git clone https://github.com/samrat13bc/Disaster_Response
 
-Executing Program:
+## Executing Program:
 
 Run the following commands in the project's root directory to set up your database and model.
 
@@ -68,7 +69,7 @@ Run the following command in the app's directory to run your web app. python run
 Go to http://0.0.0.0:3001/
 
 
-Additional Material
+## Additional Material
 
 In the data and models folder you can find two jupyter notebook that will help you understand how the model works step by step:
 
@@ -81,17 +82,17 @@ You can use ML Pipeline Preparation Notebook to re-train the model or tune it th
 Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several hours to complete.
 
 
-Authors
+## Authors
 
 Samrat Nilesh
 
 
-Acknowledgements
+## Acknowledgements
 
 Udacity for providing such a complete Data Science Nanodegree Program
 Figure Eight for providing messages dataset to train my model
 
-Screenshots:
+## Screenshots:
 
 This is an example of a message you can type to test Machine Learning model performance
 Sample Input
